@@ -14,5 +14,9 @@ Nexbus is stable for AVR, it is based on Nextion command set and allows for read
 ## Interface
 
 
-- ***nex_data(char buff[], int *comp_id_data, int *pageNo_data, int *preessed, String objName, int *value)*** It separates the data received via the serial port and assigns it to variables.
+```c++
+   nex_data(char buff[], int *comp_id_data, int *pageNo_data, int *preessed, String objName, int *value)``` *It separates the data received via the serial port and assigns it to variables.*
+
+
+ 
 
