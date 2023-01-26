@@ -5,7 +5,7 @@
 *  AUTHOR: osmanakcaybusiness@gmail.com
 *  VERSION: 0.1
 *  PURPOSE: Nextion serial data library for Arduino
-*  URL: https://github.com/RobTillaart/nexbus
+*  URL: https://github.com/sysiot/Nexbus
 */
 
 #ifndef NEXBUS_H

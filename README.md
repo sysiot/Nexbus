@@ -21,5 +21,3 @@ Nexbus is stable for AVR, it is based on Nextion command set and allows for read
  *It separates the data received via the serial port and assigns it to variables.*
 
 
- 
-
